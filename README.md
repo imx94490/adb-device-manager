@@ -224,7 +224,7 @@ MIT License
 
 ## 👤 作者
 
-ADB Device Manager Team
+guohong
 
 ## 🙏 致谢
 
