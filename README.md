@@ -24,6 +24,7 @@
 - 支持滑动手势
 - 快捷按键：Home、Back、Menu、音量、电源
 - 截图功能
+- 屏幕控制存在bug当前还在持续优化...
 - <img width="1089" height="660" alt="adb2" src="https://github.com/user-attachments/assets/fab295b1-3873-4156-a850-8d58fc0a307a" />
 
 ### 📦 APK 安装
