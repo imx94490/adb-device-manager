@@ -16,6 +16,7 @@
 - 保存设备历史记录，快速重连
 - 一键重新连接已断开的设备
 - 从历史记录中删除设备
+- <img width="1089" height="638" alt="adb1" src="https://github.com/user-attachments/assets/0ab2b946-54ce-440a-85c5-7b359097f979" />
 
 ### 🖥️ 屏幕控制
 - 实时屏幕镜像，可调节帧率（1-20 FPS）
@@ -23,12 +24,14 @@
 - 支持滑动手势
 - 快捷按键：Home、Back、Menu、音量、电源
 - 截图功能
+- <img width="1089" height="660" alt="adb2" src="https://github.com/user-attachments/assets/fab295b1-3873-4156-a850-8d58fc0a307a" />
 
 ### 📦 APK 安装
 - 拖放安装 APK 文件
 - 文件浏览器选择 APK
 - 实时显示安装进度
 - 安装结果反馈
+- <img width="1085" height="660" alt="adb3" src="https://github.com/user-attachments/assets/5aaade73-fbea-4734-a113-b8312933740b" />
 
 ### 📋 日志管理
 - 实时 logcat 流
@@ -39,6 +42,7 @@
 - 保存日志到文件，可配置输出路径
 - 历史日志文件管理
 - 删除日志文件和打开日志文件夹
+- <img width="1088" height="662" alt="adb4" src="https://github.com/user-attachments/assets/84fd5a48-8079-41cf-add5-6575d24065fb" />
 
 ### ⚙️ 设置
 - 自定义 ADB 路径配置
